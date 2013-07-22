@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: app/views/posts/edit.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-07-21 13:13:06 +05:30
+  - :path: config/database.yml
+    :cursor_offset: 0
+    :timestamp: 2013-07-20 23:44:52 +05:30
+  - :path: config/routes.rb
+    :cursor_offset: 134
+    :timestamp: 2013-07-21 02:51:54 +05:30
+files_to_retain: 0
